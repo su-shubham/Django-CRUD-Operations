@@ -31,9 +31,12 @@ This is how the web app looks like
 ## How you will see this project
 
 #### **STEP 1:**
+
 Fork this repo and clone it using:
 ```
-git clone https://github.com/
+git clone https://github.com/shubham8268/Django-CRUD-Operations
+cd Django-CRUD-Operations
+
 ```
 <br>
 The Django skeleton is look like this:
@@ -55,6 +58,8 @@ source test/bin/activate
 Install all the dependencies using:
 ```
 pip3 install -r requirements.txt
+cd employee_project
+
 ```
 #### **STEP 3:**
 Now you can see the website in your localhost:8000 using:
