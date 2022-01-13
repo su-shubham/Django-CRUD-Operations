@@ -9,6 +9,9 @@ I made this using:
 The complete backend is made by django and for database I used MongoDB Atlas.
 There are many collection but, auth_user, employee_register_employee and employee_postion_employee are the main collection.
 
+
+![CLUSTER](https://user-images.githubusercontent.com/75021117/149378147-207effff-fc50-4098-93f2-d9e0b3556dbc.png)
+
 To connect django with MongoDB Atlas I used djongo library and pymongo made for python to connect with MongoDB.
 
 <img src="CONNECTION.png" alt="database connection">
@@ -26,7 +29,6 @@ This is how the web app looks like
 **EMPLOYEE LIST PAGE:**
 <img src="EMPLOYEE LIST.png" alt="database connection">
 
-## Get the Code
 
 ## How you will see this project
 
