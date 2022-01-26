@@ -1,6 +1,6 @@
 django
-Jinja2==2.6
-Pillow==2.0.0
+Jinja2==2.11.3
+Pillow==9.0.0
 python-decouple
 pytz
 dnspython
