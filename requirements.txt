@@ -6,3 +6,4 @@ pytz
 dnspython
 pymongo==3.12.1
 djongo
+sqlparse>=0.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
